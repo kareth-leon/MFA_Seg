@@ -1,2 +1,2 @@
-# MFA_Seg: Multifractal analysis based Image Segmentation Method
-Multifractal based segmentation
+# Multifractal Image Segmentation
+Matlab implementation for the MFA-Seg: a multifractal based image segmentation method.
