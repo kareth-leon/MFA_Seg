@@ -2,6 +2,9 @@
 Matlab implementation for the multifractal analysis based image segmentation method.
 
 
+<img src="https://github.com/kareth-leon/MFA_Seg/blob/main/image/img_results.png">
+
+
 ## External Toolbox
 Bayesian univariate and multivariate models and estimators for (c1,c2) 
 
