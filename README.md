@@ -24,6 +24,23 @@ Bayesian univariate and multivariate models and estimators for (c1,c2)
 
 MATLAB toolbox ~ https://www.irit.fr/~Herwig.Wendt/software.html
 
+<!-- How to Cite -->
+## How to cite
+
+If you use our code in your research, please cite our work:
+
+```Latex
+@article{leon2025bayesian,
+  title={Bayesian Multifractal Image Segmentation},
+  author={Le{\'o}n-L{\'o}pez, Kareth M and Halimi, Abderrahim and Tourneret, Jean-Yves and Wendt, Herwig},
+  journal={IEEE Transactions on Image Processing},
+  volume={34},
+  pages={8500--8510},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 
 ## Acknowledgements
 - Project MUTATION - French National ''ANR JCJC'' Grant - 2019-2023
