@@ -37,17 +37,17 @@ addpath('tools\')
 addpath('tools\trans_matrices\')
 
 %--------------------------------------------------------------------------
-%% Load data
+% Load data
 load('70_30_100_2_256x256_mrw2D_TWO_PARTS_rtiox2_10.mat')
 vv0 = 100; % realization to be used
 X = data(:,:,vv0);
-
-%% Procedure
+%--------------------------------------------------------------------------
+% Procedure
 parameters_initialization
 trans_mat % down/up matrices
-%%
+%--------------------------------------------------------------------------
 gibbs_sampler
-
-%% Performance
+%--------------------------------------------------------------------------
+% Performance
 performance_eval
-
+%--------------------------------------------------------------------------
