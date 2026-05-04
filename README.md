@@ -18,6 +18,10 @@ images, at the pixel-level.
 
 >In this repository: demo implementation in Matlab for the segmentation of a 2D multifractal random walk (MRW).
 
+>Demo path: /demo/demo.m
+
+
+
 ## Some Results on Real Data
 
 #### Water detection from SAR images
