@@ -34,7 +34,7 @@ close all
 clc
 addpath('data\')
 addpath('tools\')
-addpath('tools\trans_matrices\')
+addpath('trans_matrices\')
 
 %--------------------------------------------------------------------------
 % Load data
