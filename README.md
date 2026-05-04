@@ -19,11 +19,6 @@ images, at the pixel-level.
 >In this repository: demo implementation in Matlab for the segmentation of a 2D multifractal random walk (MRW).
 
 
-## External Toolbox
-Bayesian univariate and multivariate models and estimators for (c1,c2) 
-
-MATLAB toolbox ~ https://www.irit.fr/~Herwig.Wendt/software.html
-
 <!-- How to Cite -->
 ## How to cite
 
@@ -43,6 +38,5 @@ If you use our code in your research, please cite our work:
 
 
 ## Acknowledgements
-- Project MUTATION - French National ''ANR JCJC'' Grant - 2019-2023
-- UK Royal Academy of Engineering under the Research Fellowship Scheme (RF/201718/17128).
-- TéSA Laboratory
+- The demo implemetation was based on the Multifractal Analysis Matlab toolbox <a href="https://www.irit.fr/~Herwig.Wendt/software.html#bayesc2)">"Bayesian univariate and multivariate models and estimators for (c1,c2)"</a> of H. Wendt.
+- This work was supported by the Project MUTATION - French National ''ANR JCJC'' Grant - 2019-2023. A. Halimi was supported by the UK Royal Academy of Engineering under the Research Fellowship Scheme (RF/201718/17128).
