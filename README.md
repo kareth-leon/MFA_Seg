@@ -18,8 +18,18 @@ images, at the pixel-level.
 
 >In this repository: demo implementation in Matlab for the segmentation of a 2D multifractal random walk (MRW).
 
+## Some Results on Real Data
 
-<!-- How to Cite -->
+#### Water detection from SAR images
+
+
+<blockquote>
+<p align="center">
+  <img src="https://github.com/kareth-leon/MFA_Seg/blob/main/image/SAR_results.png">
+</p>
+  >Dataset taken from https://github.com/myeungun/SAR-water-segmentation.
+</blockquote>
+
 ## How to cite
 
 If you use our code in your research, please cite our work:
@@ -35,6 +45,8 @@ If you use our code in your research, please cite our work:
   publisher={IEEE}
 }
 ```
+Paper available in Arxiv also! <a href="https://arxiv.org/pdf/2501.08694">here</a>.
+
 
 
 ## Acknowledgements
