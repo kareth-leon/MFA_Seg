@@ -54,5 +54,5 @@ Paper available in Arxiv also! <a href="https://arxiv.org/pdf/2501.08694">here</
 
 
 ## Acknowledgements
-- This work was implemented using the Multifractal Analysis Matlab toolbox <a href="https://www.irit.fr/~Herwig.Wendt/software.html#bayesc2)">"Bayesian univariate and multivariate models and estimators for (c1,c2)"</a> of H. Wendt.
+- The methodology was implemented using the Multifractal Analysis Matlab toolbox <a href="https://www.irit.fr/~Herwig.Wendt/software.html#bayesc2">"Bayesian univariate and multivariate models and estimators for (c1,c2)"</a> of H. Wendt.
 - This work was supported by the Project MUTATION - French National ''ANR JCJC'' Grant - 2019-2023. A. Halimi was supported by the UK Royal Academy of Engineering under the Research Fellowship Scheme (RF/201718/17128). 
